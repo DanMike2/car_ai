@@ -1,0 +1,3 @@
+tflite-runtime
+numpy
+pillow
