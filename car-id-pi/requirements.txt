@@ -1,3 +1,4 @@
 tflite-runtime
 numpy
 pillow
+flask
